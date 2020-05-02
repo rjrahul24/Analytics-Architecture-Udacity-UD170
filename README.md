@@ -1,0 +1,2 @@
+# Udacity-Student-DS
+This repository is a part of Udacity's Introduction to Data Analysis course and works on the Student Database provided by Udacity as part of the coursework. All the requirements from the course are completed in separate Python Files within the Jupyter Notebook. Feel free to clone this for working or manipulating with the Student Data-Set as it is a huge data set and can be profoundly used for Exploratory Analysis.
